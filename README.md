@@ -6,7 +6,7 @@
 # Student project Open Weather App
 This is a a meteo application that allows you to see the current weather, the hourly forecast for 4 dys,  weather forecast for 16 days and  receive  historical data in a given location. 
 The application provides two  user profiles:  **user** and **administator** whith differets access levels. 
-*The .env file is required to run the application.*
+*The .env files are required to run the application.*
 
 ## 1. General information
 This project was made:
