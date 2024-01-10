@@ -10,10 +10,10 @@ The application provides two  user profiles:  **user** and **administator** whit
 
 ## 1. General information
 This project was made:
-**Client side**: React js, JavaScript, TypeScript
-**Server side**: NodeJs, express
-**DataBase**: MondoDb, mongoose
-Project uses the data of Open Weather map API for non-commercial purposes
+- **Client side**: React js, JavaScript, TypeScript
+- **Server side**: NodeJs, express
+- **DataBase**: MondoDb, mongoose
+- Project uses the data of Open Weather map API for non-commercial purposes
 
 ## 2. Project
 
@@ -32,5 +32,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 3. Deploying
 This application is deployed on the adresse: (https://open-weather-app-study.netlify.app/)
+
+## 4. Design
+- Screen design layout : (https://www.figma.com/file/0TeoqPtUp7gtM74BHsatwW/3WA-Weather-App?type=design&node-id=52-2144&mode=design&t=w79rOfkXLSn6sPa2-0)
+- Mobile design layout : (https://www.figma.com/file/0TeoqPtUp7gtM74BHsatwW/3WA-Weather-App?type=design&node-id=46-3389&mode=design&t=huD4stu5m2AYqywT-0)
+
+## 5. Slide show
+This repo contains the slide show of this project
 
 
