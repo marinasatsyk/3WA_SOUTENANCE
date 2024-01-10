@@ -22,7 +22,8 @@ This project was made:
 >   [NodeJS (**v18.12.0**)](https://nodejs.org/en/)
 
 ### 2.2 Launching the project
--   Fork the repository
+-   Fork the repository for client side  [Link to Front End Repository](https://github.com/marinasatsyk/client_open_weather_app.git)
+-   Fork the repository for server side  [Link to Back End Repository](https://github.com/marinasatsyk/server_open_weather_mailer.git)
 -   Clone it on your computer.
 -   The `npm i` or `yarn` command will allow you to install the dependencies for client's ans server's parts.
 -   The `npm start` for backend part and `npm start` for frontend part command will allow you to run the application.
